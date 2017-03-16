@@ -19,8 +19,8 @@ namespace preparazione
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            listBox1.Items.Add(new Persona("monica", "Anceschi", 45));
-            listBox1.Items.Add(new Studente("simone", "gaddi", 17, "3f"));
+            listBox1.Items.Add(new Persona("monica", "pina", 45));
+            listBox1.Items.Add(new Studente("simone", "tizio", 17, "3f"));
             
            /* Persona p1 = new Persona("giuseppe", "pino", 98);
             listBox1.Items.Add(p1);
